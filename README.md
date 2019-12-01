@@ -3,7 +3,7 @@ A Max 4 Live interface for controlling a Ableton Live with an Xbox 360 / One Con
 
 This is my third attempt at creating an interface to enable an Xbox 360 control pad to control functions within an Ableton Live session. As the name suggests, this version uses Max 4 Live (a version of Max MSP which opens natively within Ableton Live).
 
-So far I've tested this with a wireless Xbox 360 control pad via and official wireless usb adapter and a wireless Xbox One control pad via a USB cable on a Windows 10 PC both seem to work fine but I'd love to know if that's true for other people.
+So far I've tested this with a wireless Xbox 360 control pad via an official wireless usb adapter and a wireless Xbox One control pad via a USB cable on a Windows 10 PC. Both seem to work fine but I'd love to know if that's true for other people.
 
 A massive thank you to Modul8tor for his Joystick Gamepad Control - m8r 1.0 device which is what I've based mine on. https://maxforlive.com/library/device/2051/joystick-gamepad-control-m8r
 
@@ -30,3 +30,9 @@ Version notes:
 [01/12/19] v0.1 (Alpha)
 - First usable version!
 - Mapped both thumbsticks and all buttons
+
+----------------
+To do:
+- Create wiki
+- Create demo video
+- Update sample project
